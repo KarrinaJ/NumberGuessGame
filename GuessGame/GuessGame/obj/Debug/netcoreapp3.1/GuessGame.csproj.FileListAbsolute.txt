@@ -1,0 +1,14 @@
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.exe
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.deps.json
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.runtimeconfig.json
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.runtimeconfig.dev.json
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.dll
+C:\Users\KJ\source\repos\GuessGame\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.pdb
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.csproj.AssemblyReference.cache
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.AssemblyInfoInputs.cache
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.AssemblyInfo.cs
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.dll
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.pdb
+C:\Users\KJ\source\repos\GuessGame\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.genruntimeconfig.cache
